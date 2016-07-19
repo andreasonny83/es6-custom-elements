@@ -1,0 +1,21 @@
+{
+  "name": "es6-custom-elements",
+  "description": "Registering a Custom Element using ES6",
+  "main": "index.js",
+  "authors": [
+    "Andrea Sonny <andreasonny83@gmail.com> (https://github.com/andreasonny83)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/andreasonny83/es6-custom-elements",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^0.7.22"
+  }
+}
